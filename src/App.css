@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+.card:hover{
+    background-color: black !important;
+    color: white !important;
+    transition: 0.7s;
+    transform: scale(0.9);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.odd:hover{
+    background-color: gray !important;
+    color: white !important;
+    transition: 0.5s;
+    transform: scale(0.9);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cardButton:hover{
+    background-color: white !important;
+    color: white !important;
+    transition: 0.7s;
+    transform: scale(0.9);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.invisibleButton{
+    background: transparent;
+    border: none !important;
 }
 
-.App-link {
-  color: #61dafb;
+.formsInput{
+    font-weight: bold;
+    margin: 0.1rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.cardProj:hover{
+    background-color: white !important;
+    color: black !important;
+    transition: 0.7s;
+    transform: scale(0.9);
 }

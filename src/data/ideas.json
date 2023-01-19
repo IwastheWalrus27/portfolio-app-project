@@ -1,0 +1,28 @@
+[
+    {
+        "title": "The Need to Buy on Steam",
+        "nature": "Youtube Idea",
+        "effort": "mid-to-high"
+    },
+    {
+        "title": "Learning Vim",
+        "nature": "Programming Skills",
+        "effort": "mid-to-high"
+    },
+    {
+        "title": "Learning React",
+        "nature": "Web dev Programming",
+        "effort": "high"
+    },
+    {
+        "title": "Building My Portfolio",
+        "nature": "Web dev Programming",
+        "effort": "high"
+    },
+    {
+        "title" : "Learn PHP and MySQL",
+        "nature" : "Web dev Programming",
+        "effort" : "mid-to-high"   
+    }
+
+]
